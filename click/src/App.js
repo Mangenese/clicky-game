@@ -1,9 +1,11 @@
 import React, { Component } from "react";
 import gods from "./gods.json";
-import GodCard from "./components/GodCard/GodCard"
+import GodCard from "./components/GodCard/GodCard";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
-import ScoreDiv from "./components/ScoreDiv/ScoreDiv"
+import ScoreDiv from "./components/ScoreDiv/ScoreDiv";
+import "./App.css"
+
 class App extends Component {
   constructor(props) {
     super(props)
@@ -27,7 +29,7 @@ class App extends Component {
   }
 
   winner = () => {
-    // resetGame()
+    this.resetGame()
   }
 
   resetGame = () => {
@@ -63,7 +65,7 @@ class App extends Component {
     })
     this.shuffleGods(newGods)
     console.log(newGods)
-    this.setState({ dogs: newGods })
+    this.setState({ gods: newGods })
   }
 
   
@@ -71,7 +73,7 @@ class App extends Component {
 
 
   render() {
-    return (<div>
+    return (<div className="htmlBack">
       <Header />
       <ScoreDiv 
       score={this.state.score}
