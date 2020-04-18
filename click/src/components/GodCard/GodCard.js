@@ -10,7 +10,8 @@ function GodCard(props) {
                         <img onClick={() => {
                             props.onClick(item.id)
                         }
-                    }className="godimg img-fluid" alt={item.name} src={item.item} />
+                    }className="godimg img-fluid" alt={item.name} src={item.image} />
+                    
                     </div>
 
                 ))}
