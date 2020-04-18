@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Sobek",
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/4/41/T_Sobek_LandShark_Card.png?version=35dafaf9ebae8d917aa5f108dada4201",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Sun Wukong",
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/2/2a/T_SunWukong_Elemental_Card.png?version=b28100cad628ba117bd7f318f110fd54",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Poseidon",
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/9/95/T_Poseidon_Riptide_Card.png?version=c238823c67f7925c1a174f700e0ff581",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Vulcan",
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/8/8a/T_Vulcan_FullMetal_Card.png?version=ac64953a1dbbbe32800e29868f7d2a49",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Discorda",
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/0/0a/T_Discordia_Default_Card.png?version=5f21f39af60b891ad5c41e1c3c02367e",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Ra",
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/f/f1/T_Ra_RadiantArchon_Card.png?version=bff9df3b1dc3b831cbda4ef46937bff2",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Horus",
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/a/ae/T_Horus_Seraph_Card.png?version=fa1adfef9100d5a1907fce0b7599bed5",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Ares",
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/b/bc/T_Ares_SpectralSword_Card.png?version=1e362b6dd8cd86d78d7e792ae20ae654",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Hachiman",
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/a/a5/T_Hachiman_OniMusha_Card.png?version=2e7d52ddeadc403fc477f9f95c910b9e",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Amaterasu",
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/4/4a/T_Amaterasu_CCSkin_Card.png?version=14576b7a18fd3171a0b2c1d3aca02755",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Susano",
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/3/3e/T_Susano_SerpentSlayer_Card.png?version=072755aba16f3bbc8d7ae46b21158254",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Mercury",
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/b/b4/T_Mercury_Prizefighter_Card.png?version=4a6fb881ed44c1056a4210634b6e73bf",
+        "clicked": false
+    }
+]
