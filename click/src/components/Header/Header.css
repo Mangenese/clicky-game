@@ -1,0 +1,23 @@
+.jumbotron {
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+	margin-bottom: 0px;
+    text-align: center;
+    background-color: slategray;
+}
+
+.jumbotron h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 65px;
+    font-weight: 600;
+    color: black;
+}
+
+.jumbotron p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 400;
+}
